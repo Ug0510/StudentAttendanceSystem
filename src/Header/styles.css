@@ -1,0 +1,13 @@
+.Headerbox {
+  width: 100%;
+  background-color: rgb(32, 29, 29);
+  color: white;
+  margin-bottom: 40px;
+  font-family: monospace;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.title {
+  text-align: center;
+  font-size: 40px;
+}
