@@ -22,7 +22,7 @@ This section contains a form with two input fields , one for roll number of Stud
 This section contains a table format to show the details of students who has been added to list , every entry contains checkin Time which shows the checkin time of the Student and there is a field of checkout Time that has a button says "Check out" at first and when a student checksout that button gets replaced by the time at which the Student had check out.
 
 <p align="center">
-<img width="900" alt="Screenshot 2023-01-07 at 7 27 46 PM" src="https://user-images.githubusercontent.com/85778092/211154421-f6f57ca8-a2ef-46de-be67-db33bec8dec2.png">
+<img width="900" alt="Screenshot 2023-01-07 at 7 27 46 PM" src="https://user-images.githubusercontent.com/85778092/211154421-f6f57ca8-a2ef-46de-be67-db33bec8dec2.png"> 
 </p>
 
 
