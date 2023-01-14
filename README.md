@@ -9,7 +9,7 @@
 
 
 
-This project contains react application for Student Attendance System with following features:
+This project contains react application for Student Attendance System with following features: 
 
 ## Attendance Form Section
 This section contains a form with two input fields , one for roll number of Student who is present and second input for his name. A "check in" button is there to submit the roll number and name which stores these details with check-in time and also increase the number of present student in the class at current time. The new entry of the new Student Details is also added in the "Student List" section.
