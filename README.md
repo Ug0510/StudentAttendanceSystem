@@ -24,7 +24,3 @@ This section contains a table format to show the details of students who has bee
 <p align="center">
 <img width="900" alt="Screenshot 2023-01-07 at 7 27 46 PM" src="https://user-images.githubusercontent.com/85778092/211154421-f6f57ca8-a2ef-46de-be67-db33bec8dec2.png"> 
 </p>
-
-
-
-
