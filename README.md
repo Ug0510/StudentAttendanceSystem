@@ -26,3 +26,4 @@ This section contains a table format to show the details of students who has bee
 </p>
 
 ## For any query or suggesstion, contact me at 'uditgg0510@gmail.com'
+## linkedin profile : <a href="https://www.linkedin.com/in/udit-gupta-ug0510/"> Click here </a>
