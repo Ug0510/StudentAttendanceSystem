@@ -1,4 +1,5 @@
 # StudentAttendanceSystem
+Made using React Native
 
 ## How to run
 - Install nodejs
